@@ -16,7 +16,7 @@ img {
 }
 
 a {
-    color: orange;
+    /* color: orange; */
 }
 
 .navigation-links {
@@ -24,7 +24,7 @@ a {
 }
 
 .sign-in-box {
-    border-style: solid;
+    border: 2px gray solid;
     padding: 15px;
 }
 
@@ -32,4 +32,8 @@ a {
     /* In order for an image to show up inside of a div element, you must specify a height for the element */
     height: 500px;
     background-image: url('../images/dog.jpg');
+}
+
+.btn {
+    width:100%;
 }
