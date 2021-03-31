@@ -1,0 +1,36 @@
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline;
+}
+
+img {
+    width: 80%;
+}
+
+
+#about {
+    color: blue;
+}
+
+a {
+    color: orange;
+}
+
+.navigation-links {
+    font-size: 36px;
+}
+
+.sign-in-box {
+    border-style: solid;
+    padding: 15px;
+}
+
+#hero-image {
+    /* In order for an image to show up inside of a div element, you must specify a height for the element */
+    height: 500px;
+    background-image: url('../images/dog.jpg');
+}
+
