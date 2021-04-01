@@ -24,8 +24,9 @@ a {
 }
 
 .sign-in-box {
-    border: 2px gray solid;
+    border: 1px gray solid;
     padding: 15px;
+    margin: 20px 0 0 0;
 }
 
 #hero-image {
@@ -36,4 +37,10 @@ a {
 
 .btn {
     width:100%;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
 }
